@@ -1,11 +1,13 @@
 #!/usr/bin/python3 -B
 
 """
-  fsysinfo_plot.py
+    fsysinfo_plot.py
 
-  Copyright (C) 2007-2020 Klarälvdalens Datakonsult AB, a KDAB Group company, info@kdab.com
+    Copyright (C) 2020-2020 Klarälvdalens Datakonsult AB, a KDAB Group company, info@kdab.com
 
-  Author: Sven Erdem <sven.erdem@kdab.com>
+    Author: Sven Erdem <sven.erdem@kdab.com>
+
+    This software goes under the terms of the MIT License
 """
 
 import matplotlib.pyplot as plt
